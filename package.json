@@ -5,5 +5,8 @@
   "description": "Fan intent capture quiz for a Better Noise style release campaign. Static single-file site, no build step.",
   "scripts": {
     "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }
